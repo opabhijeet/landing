@@ -94,3 +94,21 @@ h2{
     color: #4F4947;
     font-size: 18px;
 }
+.third{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+}
+.quote{
+    margin: 10% 20% 8px 20%;
+    font-size: 28px;
+    font-family: 'Montserrat', 'Light Italic';
+    font-style: italic;
+    color: #1F2937;
+}
+.author{
+    align-self: flex-end;
+    margin: 8px 25% 8% 20%;
+    font-size: 24px;
+    font-weight: bold;
+}
